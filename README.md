@@ -1,1 +1,1 @@
-Readme for javascript, learning how to cod javascript
+Readme for javascript, learning how to code in javascript
