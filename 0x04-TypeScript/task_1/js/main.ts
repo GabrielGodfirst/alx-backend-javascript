@@ -10,8 +10,8 @@ interface Teacher {
 
 // initializing a teacher
 const teacher3: Teacher = {
-  firstName: 'John',
-  lastName: 'Doe',
+  firstName: 'Jude',
+  lastName: 'Joe',
   fullTimeEmployee: false,
   location: 'London',
   contract: false,  // Additional attribute
